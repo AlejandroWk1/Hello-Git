@@ -1,1 +1,1 @@
-print "new Hello Git 2 !!! editado ok pleace"
+print ("New Hello Git!!! editado ok")
